@@ -1,1 +1,1 @@
-# TextEditor
+Text Editor using Tkinter
